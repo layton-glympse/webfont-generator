@@ -48,4 +48,4 @@ Further optimization steps provided by SVGO, see https://github.com/svg/svgo for
 
 Author History
 ==============
-Original project forked from moven/webfont-generator.
+Original project forked from [moven/webfont-generator](https://github.com/moven/webfont-generator).
