@@ -44,3 +44,8 @@ Further optimization steps provided by SVGO, see https://github.com/svg/svgo for
 4. Creates a WOFF font based on TTF font
 
 5. Currently does not generate a CSS file, so use content: '<unicode>' in your CSS
+
+
+Author History
+==============
+Original project forked from moven/webfont-generator.
