@@ -1,11 +1,11 @@
 {
-  "name": "webfont-generator",
-  "version": "0.0.2",
-  "author": "Movencorp Inc <support@moven.com>",
-  "description": "A utility for packaging webfonts from individual SVG files",
+  "name": "glympse-webfont-generator",
+  "version": "0.0.3",
+  "author": "Glympse",
+  "description": "A utility for packaging webfonts from individual SVG files - Forked from https://github.com/moven/webfont-generator",
   "contributors": [
     {
-      "email": "shah@moven.com"
+      "email": "layton@glympse.com"
     }
   ],
   "scripts": {
