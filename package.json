@@ -1,7 +1,7 @@
 {
   "name": "glympse-webfont-generator",
   "version": "0.0.3",
-  "author": "Glympse",
+  "author": "dudewad",
   "description": "A utility for packaging webfonts from individual SVG files - Forked from https://github.com/moven/webfont-generator",
   "contributors": [
     {
