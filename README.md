@@ -15,7 +15,7 @@ Running instructions
 Implementation details
 ======================
 
-1. Takes a config file (config.json - residing in input dir)
+1. Takes a config file (config.json - residing in input dir).
 
 Config dir must contain at minimum the following properties:
 
