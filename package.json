@@ -33,8 +33,8 @@
   "dependencies": {
     "async": "~0.2.9",
     "svg2ttf": "^4.0.1",
-    "svgo": "~0.4.4",
-    "svgpath": "~1.0.2",
+    "svgo": "~0.7.1",
+    "svgpath": "~2.2.1",
     "ttf2woff": "~1.2.0",
     "underscore": "~1.5.2",
     "xml2js": "~0.4.1"
